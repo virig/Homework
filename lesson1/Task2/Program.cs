@@ -4,6 +4,6 @@ if ( a > b && b > c ) Console.WriteLine("Максимальное число = "
 
 else if ( b > c ) Console.WriteLine("Максимальное число = "  + b );
      
-if ( c ) Console.WriteLine("Максимальное число = "  + c );
+else Console.WriteLine("Максимальное число = "  + c );
   
 Console.ReadLine();
