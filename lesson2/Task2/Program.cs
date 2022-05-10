@@ -1,5 +1,5 @@
 ﻿
-Console.Clear();
+// вывод второго числа из случайного трехзначного числа
 System.Console.WriteLine();
 int number = new Random().Next(100, 999);
 

@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿// Рандомное число, одновременно кратно числу 7 и 23, да или нет.
 int number = new Random().Next(1, 999);
 int a = 7;
 int b = 23;

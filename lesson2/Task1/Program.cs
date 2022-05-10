@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿// метод который выводит случайное число из заданного отрезка
 
 int Number = new Random().Next(10, 99);
 int Max = 0;
